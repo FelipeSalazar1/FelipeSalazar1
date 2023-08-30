@@ -41,6 +41,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-csalazar/)](https://www.linkedin.com/in/felipe-csalazar/)
+[![Linkedin](https://img.shields.io/badge/-Felipe_Salazar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-csalazar/)](https://www.linkedin.com/in/felipe-csalazar/)
 [![Gmail Badge](https://img.shields.io/badge/-felipe.csalazar25@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.csalazar25@gmail.com)](mailto:felipe.csalazar25@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/FelipeSalazar1?label=follow&style=social)](https://github.com/FelipeSalazar1)
