@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **engenharia de software** na <a href="https://www.fiap.com.br/">FIAP</a>.
-- 💼 Trabalhando como **jovem aprendiz** na <a href="https://www.vivo.com.br/">VIVO</a>
+- 💼 Trabalhando como **estágiario** no <a href="https://www.itau.com.br/">ITAU</a>
 - 🌱 &nbsp; Aprendendo mais sobre **NodeJS, ReactJS e SQL**.
 
 <h3>Minhas Skills</h3>
